@@ -45,7 +45,7 @@ All features were chosen because they **logically affect ride price** in real-wo
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/mosisafeyissa/gdg_study_session_ML_g1.git>
+git clone https://github.com/mosisafeyissa/gdg_study_session_ML_g1.git
 cd ride-price-ml
 ```
 
